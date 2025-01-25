@@ -1,0 +1,7 @@
+train: C:\Users\amren\OneDrive\Desktop\College-Project\AI-model\Model\data\train\images
+val: C:\Users\amren\OneDrive\Desktop\College-Project\AI-model\Model\data\valid\images
+
+nc: 24
+names: ['dog','person','cat','tv','car','meatballs','marinara sauce','tomato soup','chicken noodle soup','french onion soup','chicken breast','ribs','pulled pork','hamburger','cavity','hankerchief','bottle', 'rough-sheet','stand-person','chair','copy','pen','earbuds','mobile']
+
+
